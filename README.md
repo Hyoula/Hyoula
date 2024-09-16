@@ -1,4 +1,4 @@
-## Hi there 👋
+# Halo semua! 👋
 
 <!--
 **Hyoula/Hyoula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Maharani Hihola**.<br>
+
+Saya seorang **Mobile Development Cohort** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya memiliki keterampilan manajemen waktu yang efektif, yang memungkinkan saya mengatur jadwal kelas, proyek, dan kegiatan ekstrakurikuler dengan baik. Selalu bersemangat untuk mempelajari hal-hal baru dan bertanggung jawab untuk menyelesaikan tugas yang diberikan sebaik mungkin.<br>
+
+Saya juga memiliki pengalaman dalam pengembangan perangkat lunak dan memiliki keterampilan termasuk HTML, PHP, MySQL, Java, C++, Laravel, CodeIgniter dan dapat menggunakan Microsoft Office dengan baik<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/maharanimmh/)ku ya.
